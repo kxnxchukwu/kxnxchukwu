@@ -10,6 +10,7 @@
 <p>
  <img src="content/python.svg" alt="Python">
  <img src="content/tensorflow.svg" alt="TensorFlow">
+ <img src="content/anaconda.svg" alt="Anaconda">
  <img src="content/r.svg" alt="R">
  <img src="content/javascript.svg" alt="JavaScript">
  <img src="content/react.svg" alt="React">
@@ -21,15 +22,15 @@
  <img src="content/power-bi.svg" alt="Microsoft PowerBI">
  <img src="content/tableau.svg" alt="Tableau">
  <img src="content/spss.svg" alt="SPSS">
- <img src="content/jquery.svg" alt="jQuery">
- <img src="content/less.svg" alt="LESS">
- <img src="content/html5.svg" alt="HTML5">
- <img src="content/bootstrap-4.svg" alt="Bootstrap 4">
- <img src="content/excel.svg" alt="Microsoft Excel">
- <img src="content/windows.svg" alt="Microsoft Windows">
- <img src="content/dynamics-crm.svg" alt="Microsoft Dynamics 365 CRM">
- <img src="content/salesforce.svg" alt="Salesforce">
- <img src="content/latex.svg" alt="Latex">
- <img src="content/expressjs.svg" alt="Express.js">
+ <img src="content/jquery.svg" alt="jQuery" width="100" height="100">
+ <img src="content/less.svg" alt="LESS" width="100" height="100">
+ <img src="content/html5.svg" alt="HTML5" width="100" height="100">
+ <img src="content/bootstrap-4.svg" alt="Bootstrap 4" width="100" height="100">
+ <img src="content/excel.svg" alt="Microsoft Excel" width="100" height="100">
+ <img src="content/windows.svg" alt="Microsoft Windows" width="100" height="100">
+ <img src="content/dynamics-crm.svg" alt="Microsoft Dynamics 365 CRM" width="100" height="100">
+ <img src="content/salesforce.svg" alt="Salesforce" width="100" height="100">
+ <img src="content/latex.svg" alt="Latex" width="100" height="100">
+ <img src="content/expressjs.svg" alt="Express.js" width="100" height="100">
 </p>
 

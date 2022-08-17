@@ -1,5 +1,5 @@
 <h1>Hello there!👋</h1>
-<p>Welcome to my GitHub profile! <br/>I am Kenechukwu, <b>a Data Analyst and Software Engineer</b> living in <b>Dublin, Ireland 🇮🇪</b>. Looking for full time opportunities in Machine Learning, Data Analytics and Web Development.</p>
+<p>Welcome to my GitHub profile! <br/>I am Kenechukwu, <b>a Frontend Software Engineer</b> living in <b>Dublin, Ireland 🇮🇪</b>.</p>
 
 
 <p>I love everything tech, I want to build applications that live on the internet! 
